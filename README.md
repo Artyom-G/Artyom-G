@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://the3df.b-cdn.net/wp-content/uploads/2019/10/kiwi-fruit-new-zealand-3d-postcard.gif" align="center"/>
+<img src="https://the3df.b-cdn.net/wp-content/uploads/2019/10/kiwi-fruit-new-zealand-3d-postcard.gif" align="center" style="width: 100%"/>
 </div>  
   
 
