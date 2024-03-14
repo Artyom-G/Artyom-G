@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Artyom-G/Artyom-G/assets/58640306/85fc058d-6c51-41c1-aef8-dedb074641d1" align="center" style="width: 100%; height: 300px" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/010/625/339/original/zahar-scherbov-15.gif?1525376386" align="center" style="width: 100%; height: 300px" />
 </div>  
   
 
