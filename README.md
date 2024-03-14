@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="[https://cdnb.artstation.com/p/assets/images/images/010/625/339/original/zahar-scherbov-15.gif](https://cdnb.artstation.com/p/assets/images/images/010/625/339/original/zahar-scherbov-15.gif?1525376386)" align="center"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/010/625/339/original/zahar-scherbov-15.gif?1525376386" align="center"/>
 </div>  
   
 
