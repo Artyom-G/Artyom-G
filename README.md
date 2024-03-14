@@ -10,7 +10,10 @@
   - 🔭 I’m currently working on [a portfolio website](artyomg.com)  
     
   
-  - 🌱 I’m currently learning React.js  
+  - 🌱 I’m currently learning React.js
+
+
+  - 🌱 I hope you all have a wonderful day  
     
   
   - ⚡ Fun fact: I am also a camera man   
