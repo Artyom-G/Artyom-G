@@ -86,7 +86,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-G&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-G&hide_border=true&layout=compact" align="center" />
+![](https://github-readme-stats.vercel.app/api?username=Artyom-G&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Artyom-G&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-G&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>  
 
 <br/>  
 
