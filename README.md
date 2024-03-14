@@ -1,4 +1,4 @@
-<div style="background-color: green;">
+<div style="background-color: white;">
   <div align="center">
   <img src="https://the3df.b-cdn.net/wp-content/uploads/2019/10/kiwi-fruit-new-zealand-3d-postcard.gif" align="center" style="width: 100%; max-width: 1200px; height: 300px;"/>
   </div>  
