@@ -7,7 +7,7 @@
   ### <div align="center">Hello, I am Artyom, a Fullstack Developer</div>  
     
   
-  - 🔭 I’m currently working on [a gym app, FitFeed]  
+  - 🔭 I’m currently working on a gym app, FitFeed 
     
   
   <br/>  
