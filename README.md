@@ -7,14 +7,7 @@
   ### <div align="center">Hello, I am Artyom, a Fullstack Developer</div>  
     
   
-  - 🔭 I’m currently working on [a portfolio website](artyomg.com)  
-    
-  
-  - 🌱 I’m currently learning React.js
- 
-    
-  
-  - ⚡ Fun fact: I am also a camera man   
+  - 🔭 I’m currently working on [a gym app, FitFeed]  
     
   
   <br/>  
